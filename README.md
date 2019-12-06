@@ -2,4 +2,5 @@
 How kittens get to school
 
 ## The ride
-mmrgggg!! brgl brgl! fumufumu
+mmrgggg!! brgl brgl!
+fumufumu
